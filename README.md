@@ -55,3 +55,6 @@ $ rm -rf .cache && rm -rf public && yarn develop
 
 The site builds correctly and the content can be checked in the graphql explorer on http://localhost:8000/___graphql
 
+## Graphql errors in build output
+
+Note: the build currently shows a lot of graphql errors. These are not related to this issue but to https://github.com/gatsbyjs/gatsby/issues/16455.
