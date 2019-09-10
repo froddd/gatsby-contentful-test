@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-example-using-contentful",
+  "private": true,
+  "description": "Gatsby example site using the Contentful source plugin",
+  "version": "1.0.0",
+  "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
+  "dependencies": {
+    "gatsby": "^2.0.0",
+    "gatsby-source-contentful": "^2.0.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "start": "gatsby serve"
+  }
+}
